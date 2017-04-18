@@ -1,0 +1,29 @@
+{
+    "name": "atom-spanish-valencian-translator",
+    "main": "./lib/atom-spanish-valencian-translator",
+    "version": "0.0.0",
+    "description": "Spanish to valencian and vice versa translator for Atom editor",
+    "keywords": [
+        "spanish",
+        "valencian",
+        "translator"
+    ],
+    "activationCommands": {
+        "atom-workspace": [
+            "atom-spanish-valencian-translator:spanish-valencian",
+            "atom-spanish-valencian-translator:valencian-spanish"
+        ]
+    },
+    "repository": "https://github.com/jcarloslopez/atom-spanish-valencian-translator",
+    "bugs": {
+        "url": "https://github.com/jcarloslopez/atom-spanish-valencian-translator/issues"
+    },
+    "homepage": "https://github.com/jcarloslopez/atom-spanish-valencian-translator#readme",
+    "author": "Carlos López",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    },
+    "dependencies": {
+    }
+}

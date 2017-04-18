@@ -1,0 +1,39 @@
+{
+    "context-menu": {
+        "atom-text-editor": [
+            {
+                "label": "Spanish - Valencian Translator",
+                "submenu": [
+                    {
+                        "label": "Spanish to Valencian",
+                        "command": "atom-spanish-valencian-translator:spanish-valencian"
+                    },
+                    {
+                        "label": "Valencian to Spanish",
+                        "command": "atom-spanish-valencian-translator:valencian-spanish"
+                    }
+                ]
+            }
+        ]
+    },
+    "menu": [
+        {
+            "label": "Packages",
+            "submenu": [
+                {
+                    "label": "Spanish - Valencian Translator",
+                    "submenu": [
+                        {
+                            "label": "Spanish to Valencian",
+                            "command": "atom-spanish-valencian-translator:spanish-valencian"
+                        },
+                        {
+                            "label": "Valencian to Spanish",
+                            "command": "atom-spanish-valencian-translator:valencian-spanish"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
