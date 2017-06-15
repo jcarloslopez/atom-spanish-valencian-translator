@@ -1,7 +1,7 @@
 {
   "name": "atom-spanish-valencian-translator",
   "main": "./lib/atom-spanish-valencian-translator",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Spanish to valencian and vice versa translator for Atom editor",
   "keywords": [
     "spanish",
